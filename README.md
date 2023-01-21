@@ -10,4 +10,4 @@
               2) C:\Users\{YOURUSERNAME}\AppData\Local\Programs\Python\Python3.10\Scripts
         *Now go to "Manage App Execution Aliases" and turn off any python short cuts
         *You are now able to open command window, go to directory of python code, and run file by typing "py filename.py"
-        
+  3) Download any needed packages from command window by typing "py -m pip install {package name}"    
